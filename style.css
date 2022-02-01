@@ -1,0 +1,22 @@
+:root {
+    --color1: #263238;
+    --color2: #252728;
+    --color3: #252728;
+    --colorfondo: #041F31;
+    --color-text: #BDEBEA;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 62.5%;
+}
+
+body {
+    background-color: var(--colorfondo);
+}
